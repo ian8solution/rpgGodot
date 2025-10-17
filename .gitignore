@@ -1,0 +1,18 @@
+# Godot-specific
+.import/
+export.cfg
+export_presets.cfg
+
+# System / Editor
+.DS_Store
+Thumbs.db
+
+# Temporary / Build Files
+*.tmp
+*.log
+
+# Godot 4 specific cache
+.godot/
+
+# VS Code
+.vscode/
